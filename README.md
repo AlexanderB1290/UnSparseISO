@@ -18,7 +18,7 @@ One of the problems causing this error is that the file is flagged as SPARSE and
 5. Try to mount the disk image.
 
 # Note: 
-If you type in the filename in the textbox, the file will be searched in the current directory, in which the application is launched.
+If you type in the filename in the textbox, the app will search for the file in the current directory.
 
 # What this thingy does?
 1. Try to get the attributes of the selected file.
