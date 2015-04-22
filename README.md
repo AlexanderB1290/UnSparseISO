@@ -23,4 +23,4 @@ If you type in the filename in the textbox, the app will search for the file in 
 # What this thingy does?
 1. Try to get the attributes of the selected file.
 2. Remove the Read-Only flag, if it is set.
-3. Set the Sparse flag to 0 (zero), if it is set.
+3. Set the Sparse flag to 0 (zero), if it is set to 1 (one).
