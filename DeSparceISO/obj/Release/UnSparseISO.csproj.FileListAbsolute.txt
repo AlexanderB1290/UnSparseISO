@@ -1,0 +1,8 @@
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\bin\Release\DeSparceISO.exe.config
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\obj\Release\DeSparceISO.exe
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\obj\Release\DeSparceISO.pdb
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\bin\Release\DeSparceISO.exe
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\bin\Release\DeSparceISO.pdb
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\obj\Release\DeSparceISO.UnSparseIso.resources
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\obj\Release\DeSparceISO.Properties.Resources.resources
+E:\Projects\VisualStudio\DeSparceISO\DeSparceISO\obj\Release\UnSparseISO.csproj.GenerateResource.Cache
